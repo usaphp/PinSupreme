@@ -40,14 +40,16 @@ header {
   header .headline {
     float: left;
     padding-left: 70px;
-    width: 500px; }
+    width: 600px; }
     header .headline h1 {
-      font-size: 18px;
+      font-size: 24px;
       border-bottom: 1px solid #eee;
       padding-bottom: 5px;
-      margin-bottom: 5px; }
+      margin-bottom: 5px;
+      margin-top: 0px;
+      padding-top: 10px; }
     header .headline p {
-      font-size: 14px; }
+      font-size: 18px; }
   header .social {
     padding-top: 50px;
     float: right; }
@@ -131,7 +133,8 @@ header {
       list-style: none;
       padding: 0px;
       margin: 0px;
-      margin-bottom: 40px; }
+      margin-bottom: 40px;
+      font-size: 18px; }
   .item-w .item .purchase-btn {
     margin-bottom: 50px;
     display: inline-block;
