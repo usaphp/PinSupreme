@@ -52,7 +52,7 @@ header {
   background-color: #f4f4f4;
   background-image: -webkit-linear-gradient(left, #dddbd4, #f9f9f9);
   background-image: linear-gradient(to right,#dddbd4, #f9f9f9);
-  padding: 120px 80px; }
+  padding: 120px 80px 0px 80px; }
   .item-w .item:after {
     content: "";
     display: table;
@@ -67,7 +67,7 @@ header {
   .item-w .item .item-description {
     float: left;
     width: 30%;
-    padding: 0px 50px 0px 50px; }
+    padding: 0px 0px 0px 50px; }
     .item-w .item .item-description h2 {
       border-bottom: 1px solid #ddd;
       padding-bottom: 20px;
